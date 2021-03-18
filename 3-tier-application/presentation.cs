@@ -22,6 +22,10 @@ namespace _3_tier_application //218051864 LV Langa
                 {
                     Console.WriteLine(item);
                 }
+
+                Console.WriteLine("==================================");
+                Console.WriteLine();
+                
             }
 
             Console.ReadLine();

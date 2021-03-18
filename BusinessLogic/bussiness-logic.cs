@@ -95,7 +95,7 @@ namespace BusinessLogic //218051864 LV Langa
             OrderedSets.Add(lstItemType);
             OrderedSets.Add(lstSalesChannel);
             OrderedSets.Add(lstOrderPriority);
-            OrderedSets.Add(lstOrderDates);
+            //OrderedSets.Add(lstOrderDates);
             
             // sending the ordered sets to the presentation layer to be displayed to the user
             return OrderedSets;
